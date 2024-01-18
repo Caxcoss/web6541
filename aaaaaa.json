@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.git": false
+    },
+    "git.ignoreMissingGitWarning": true,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.snippetSuggestions": "top",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "guides.enabled": false,
+    "workbench.editor.empty.hint": "hidden",
+    "editor.indentSize": "tabSize"
+}
